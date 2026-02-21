@@ -1,0 +1,40 @@
+{
+  "project_info": {
+   "firebase_url":"null",
+    "project_number": "419327546119",
+    "project_id": "victoriasdream-9b56b",
+    "storage_bucket": "victoriasdream-9b56b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419327546119:android:9cc18212fad4ea770a6ba2",
+        "android_client_info": {
+          "package_name": "com.Company.ProductName"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419327546119-nt6oc9439ngq5lj0k1o2iqbi8r1md13j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl2AcgAFya6hcnQ0mIcFv3DftDHBgew00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419327546119-nt6oc9439ngq5lj0k1o2iqbi8r1md13j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
